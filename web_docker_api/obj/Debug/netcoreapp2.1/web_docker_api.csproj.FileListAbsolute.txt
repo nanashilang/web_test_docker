@@ -1,0 +1,13 @@
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\bin\Debug\netcoreapp2.1\web_docker_api.deps.json
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\bin\Debug\netcoreapp2.1\web_docker_api.runtimeconfig.json
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\bin\Debug\netcoreapp2.1\web_docker_api.runtimeconfig.dev.json
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\bin\Debug\netcoreapp2.1\web_docker_api.dll
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\bin\Debug\netcoreapp2.1\web_docker_api.pdb
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.csproj.CoreCompileInputs.cache
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.RazorAssemblyInfo.cache
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.RazorAssemblyInfo.cs
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.AssemblyInfoInputs.cache
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.AssemblyInfo.cs
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.RazorTargetAssemblyInfo.cache
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.dll
+C:\Users\tori\source\repos\web_docker_api\web_docker_api\obj\Debug\netcoreapp2.1\web_docker_api.pdb
